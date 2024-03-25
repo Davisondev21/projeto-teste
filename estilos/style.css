@@ -13,10 +13,18 @@ main{
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 h1{
-    font-size: 26px;
+    font-size: 2em;
     color: rgb(148, 46, 243);
 }
 h2{
-    font-size: 18px;
+    font-size: 1.5em;
     color: rgb(166, 88, 240);
+}
+p{
+    font-size: 1.5em;
+    color: rgb(166, 88, 240);
+}
+img.lado{
+    float: right;
+    width: 100px;
 }
