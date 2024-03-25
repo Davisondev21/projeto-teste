@@ -1,2 +1,2 @@
 # projeto-teste
- criadop para estudos
+ criado para estudos
