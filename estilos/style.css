@@ -9,8 +9,9 @@ main{
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 85px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    margin-top: 30px;
+    padding: 65px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.473);
     border-radius: 6px;
 }
 h1{
@@ -27,5 +28,12 @@ p{
 }
 img.lado{
     float: right;
-    width: 100px;
+    width: 55px;
+    border-radius: 6px;
+    margin-top: -25px;
+}
+img.lado1{
+    float: top;
+    width: 70px;
+    border-radius: 6px;
 }
